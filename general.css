@@ -1,0 +1,125 @@
+body
+{
+    background:rgb(246, 245, 250);
+    color:black;
+
+}
+
+.encabezado
+{
+ border-radius: auto;
+}
+
+.cuadro1
+ {
+    height: 250px;
+    width: 290px;
+    float: right;
+    margin: 15px;
+    border-radius: 20px;
+}
+.cuadro2 
+ {
+    height: 250px;
+    width: 290px;
+    float: right;
+    margin: 15px;
+    border-radius: 20px;
+}
+.cuadro3
+ {
+    height: 250px;
+    width: 290px;
+    float: right;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.cuadro4
+ {
+    height: 250px;
+    width: 290px;
+    float: right;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.cuadro5 
+ {
+    height: 250px;
+    width: 290px;
+    float: right;
+    margin: 15px;
+    border-radius: 20px;
+}
+
+.cuadro6
+ {
+    height: 250px;
+    width: 290px;
+    float: right;
+    margin:  15px;
+    border-radius: 20px;
+    
+}
+
+.cuadro7 
+ {
+    height: 250px;
+    width: 290px;
+    float: right;  
+    margin:15px;
+    border-radius: 20px;
+}
+
+.cuadro8
+ {
+    height: 250px;
+    width: 290px;
+    float: right; 
+    margin:  15px;
+    border-radius: 20px;
+ }
+
+img
+{
+    border-radius: 0%;
+}
+
+.menu 
+{
+	background-color:#7cc85c;
+    float: left;
+	margin-bottom:-3600px;
+	padding:2%;
+    padding-bottom:200%;
+	width:21%;
+}
+
+a:link, a:visited, a:hover, a:active 
+{
+	color:rgb(0, 0, 0);
+	font-size:1em;
+}
+
+body 
+{
+    font: 20px/1.85em 'Open Sans', Arial, Helvetice Neue, sans-serif;
+    color: #000000;
+    font-weight: 300;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+ /* Fix for webkit rendering */
+    -webkit-text-size-adjust: 100%;
+    background: #54873E;
+}
+
+.templatemo_contactform input, textarea 
+{
+    width: 100%;
+    background: #282828;
+    border: 1px solid #393939;
+    padding: 10px 0px;
+    margin: 0px 0px 5px 0px;
+    background-color: #FAFAFA;
+}
